@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT", "..\UT\UT.csproj", "{6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{EDA9002A-DE1C-4E3B-AC7A-DBECB1FC0D2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRepo", "..\UnitTestRepo\UnitTestRepo.csproj", "{479E6C9A-1BF9-4525-A64B-26DAF4C79F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectRepo", "..\UnitTestProjectRepo\UnitTestProjectRepo.csproj", "{36E59A31-579E-4F8F-B49F-2A607A337703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EDA9002A-DE1C-4E3B-AC7A-DBECB1FC0D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDA9002A-DE1C-4E3B-AC7A-DBECB1FC0D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDA9002A-DE1C-4E3B-AC7A-DBECB1FC0D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E6C9A-1BF9-4525-A64B-26DAF4C79F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E6C9A-1BF9-4525-A64B-26DAF4C79F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E6C9A-1BF9-4525-A64B-26DAF4C79F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E6C9A-1BF9-4525-A64B-26DAF4C79F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E59A31-579E-4F8F-B49F-2A607A337703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E59A31-579E-4F8F-B49F-2A607A337703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E59A31-579E-4F8F-B49F-2A607A337703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E59A31-579E-4F8F-B49F-2A607A337703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
